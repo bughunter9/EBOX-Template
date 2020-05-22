@@ -1,0 +1,15 @@
+1. inline T square(string s)
+2. 6
+3. constant expression
+4. same as template
+5. type-safe
+6. smae as template
+7.	i. T
+	ii. T& a, T& b
+8. 	x = 1 count = 0
+	x = A count = 0
+	x = 1.1 count = 0
+	x = 2.2 count = 0
+9.	i. template<class T, class U>
+	ii. 2
+10. Compile time error
